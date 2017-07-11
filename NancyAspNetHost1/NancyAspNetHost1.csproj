@@ -94,6 +94,9 @@
     <Content Include="Scripts\jquery-1.6.4-vsdoc.js" />
     <Content Include="Scripts\jquery.signalR-2.2.2.min.js" />
     <Content Include="Scripts\jquery.signalR-2.2.2.js" />
+    <Content Include="Views\report.sshtml">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bootstrapper.cs" />
@@ -116,9 +119,6 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
     <None Include="Content\request.log" />
-    <None Include="Views\report.sshtml">
-      <SubType>Designer</SubType>
-    </None>
   </ItemGroup>
   <ItemGroup />
   <PropertyGroup>
