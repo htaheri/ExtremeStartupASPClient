@@ -16,10 +16,10 @@ namespace NancyAspNetHost1.Modules
 			{
 				return View["index"];
 			};
-			Get["/Report"] = parameters =>
-            {
-	            return View["report"];
-            };
+			//Get["/Report"] = parameters =>
+            //{
+	        //    return View["report"];
+            //};
             //Get["/Query"] = parameters => { return HandleQuery(parameters); };
 
         }
