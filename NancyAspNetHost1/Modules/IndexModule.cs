@@ -9,7 +9,10 @@ namespace NancyAspNetHost1.Modules
         static string GlobalLog;
         public IndexModule()
         {
-			Get["/Home"] = parameters =>
+			Get["/Report"] = parameters =>
+			{
+				return View["report"];
+			};			Get["/"] = parameters =>
 			{
 				return View["index"];
 			};
@@ -17,7 +20,7 @@ namespace NancyAspNetHost1.Modules
             {
 	            return View["report"];
             };
-            Get["/"] = parameters => { return HandleQuery(parameters); };
+            //Get["/Query"] = parameters => { return HandleQuery(parameters); };
 
         }
 
