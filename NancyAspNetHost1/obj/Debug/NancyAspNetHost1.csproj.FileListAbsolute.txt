@@ -33,3 +33,4 @@ c:/users/hossein/documents/visual studio 2015/Projects/NancyAspNetHost1/NancyAsp
 /Users/htaheri/Documents/NancyAspNetHost1/ExtremeStartupASPClient/NancyAspNetHost1/obj/Debug/NancyAspNetHost1.pdb
 /Users/htaheri/Documents/NancyAspNetHost1/ExtremeStartupASPClient/NancyAspNetHost1/bin/Scripts/jquery.signalR-2.2.2.js
 /Users/htaheri/Documents/NancyAspNetHost1/ExtremeStartupASPClient/NancyAspNetHost1/bin/Scripts/jquery.signalR-2.2.2.min.js
+/Users/htaheri/Documents/NancyAspNetHost1/ExtremeStartupASPClient/NancyAspNetHost1/bin/Views/report.html
