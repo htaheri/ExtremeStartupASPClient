@@ -1,0 +1,10 @@
+c:\users\hossein\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\NancyAspNetHost1.dll.config
+c:\users\hossein\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\NancyAspNetHost1.dll
+c:\users\hossein\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\NancyAspNetHost1.pdb
+c:\users\hossein\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\Nancy.dll
+c:\users\hossein\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\Nancy.Hosting.Aspnet.dll
+c:\users\hossein\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\Nancy.xml
+c:\users\hossein\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\Nancy.Hosting.Aspnet.xml
+c:\users\hossein\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\obj\Debug\NancyAspNetHost1.csprojResolveAssemblyReference.cache
+c:\users\hossein\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\obj\Debug\NancyAspNetHost1.dll
+c:\users\hossein\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\obj\Debug\NancyAspNetHost1.pdb
